@@ -1,0 +1,43 @@
+#container{
+    background-color: rgb(187, 187, 187);
+width: 350px;
+height: 400px;
+display: block;
+margin: auto;
+border-radius: 15px;
+}
+#btn-container{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    width: 300px;
+    height: 200px;
+    gap: 20px;
+    border-radius: 15px;
+    margin-top: 60px;
+    margin-left: 30px;
+    
+    
+}
+#inpt{
+    width: 300px;
+    height: 40px;
+    margin: 20px 15px;
+    border-radius: 10px;
+    box-shadow: 11px 11px 41px wheat;
+
+}
+.btn{
+    border-radius:15px;
+    box-shadow:11px 11px 31px wheat ;
+    cursor: pointer;
+}
+.btnn{
+    border-radius:15px;
+    box-shadow:11px 11px 31px wheat ;
+    background-color: rgb(35, 35, 35);
+    color: white;
+    cursor: pointer;
+}
+#c{
+    background-color: rgb(191, 6, 6);
+}
