@@ -15,21 +15,24 @@ border-radius: 15px;
     border-radius: 15px;
     margin-top: 60px;
     margin-left: 30px;
-    
-    
 }
+
 #inpt{
     width: 300px;
     height: 40px;
     margin: 20px 15px;
     border-radius: 10px;
     box-shadow: 11px 11px 41px wheat;
+    font-weight: bold;
+    font-size: 20px;
 
 }
 .btn{
     border-radius:15px;
     box-shadow:11px 11px 31px wheat ;
     cursor: pointer;
+    font-weight: bold;
+    font-size: 15px;
 }
 .btnn{
     border-radius:15px;
